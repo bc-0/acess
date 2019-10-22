@@ -5,3 +5,4 @@ Now for sure.
 Creating a new branch named dev.
 Solving the confilt.
 No ff.
+BUG fixed.
