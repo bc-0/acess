@@ -1,2 +1,3 @@
-this is a second readme.
-end again.
+Git is a distributed version control system.
+Git is free.
+end.
