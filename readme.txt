@@ -4,3 +4,4 @@ Git tracks changes of files.
 Now for sure.
 Creating a new branch named dev.
 Solving the confilt.
+No ff.
